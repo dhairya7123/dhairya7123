@@ -21,6 +21,8 @@ I enjoy building scalable software, designing efficient APIs, and exploring mode
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 ### Backend Frameworks
 
